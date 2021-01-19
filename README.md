@@ -1,3 +1,3 @@
-# me.nenoloje.com
+# README for nenoloje.github.io
 
-An experiment with GitHub pages.
+This repo contains an experiment with GitHub pages.
