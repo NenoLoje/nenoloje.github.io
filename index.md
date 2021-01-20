@@ -8,9 +8,9 @@ Empower teams and improve Professional Software Delivery using agile practices, 
 
 ### What I do
 
-- Since 2004: Speaker at conferences, meetups, local user groups and other events (like the Global DevOps Bootcamp)
+- Since 2004: Speaker at conferences, meetups, local user groups, and other events (like the Global DevOps Bootcamp)
 - Since 2005: Freelance consultant, specializing in Azure DevOps (formerly TFS/VSTS)
-- Since 2005: As a Microsoft Most Valueable Professional (MVP) I forward customer feedback to Microsoft on a regular basis
+- Since 2005: As a Microsoft Most Valuable Professional (MVP) for Developer Technologies, I forward customer feedback to Microsoft regularly
 - Since 2006: Trainer and founder of @TFSCamp - a training for Azure DevOps power users
 - Since 2010: Professional Scrum trainer (licensed by scrum.org)
 - Since 2010: Member of the advisory board for the BASTA! conference (DevOps track)
@@ -26,7 +26,7 @@ Empower teams and improve Professional Software Delivery using agile practices, 
 - Move your local TFS/Azure DevOps server to the cloud (Azure DevOps Services)
 - Upgrade your existing TFS/Azure DevOps server to the latest version (incl. training, if needed)
 - Review and optimize your usage of Azure DevOps
-- Help you make strategic decisions regarding Azure DevOps and/or GitHub
+- Help you make strategic decisions regarding Azure DevOps and GitHub
 - Applying Professional Scrum for Software Development training classes
 
 ### How to contact me
