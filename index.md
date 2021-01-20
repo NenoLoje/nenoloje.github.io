@@ -21,7 +21,7 @@ Empower teams and improve Professional Software Delivery using agile practices, 
 
 - 2011/2012 Co-author of two books on Agile Software Engineering (with Team Foundation Server)
 
-### Typical services
+### What I can help you with
 
 - Move your local TFS/Azure DevOps server to the cloud (Azure DevOps Services)
 - Upgrade your existing TFS/Azure DevOps server to the latest version (incl. training, if needed)
