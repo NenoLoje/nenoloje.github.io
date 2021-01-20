@@ -26,7 +26,7 @@ Empower teams and improve Professional Software Delivery using agile practices, 
 - Move your local TFS/Azure DevOps server to the cloud (Azure DevOps Services)
 - Upgrade your existing TFS/Azure DevOps server to the latest version (incl. training, if needed)
 - Review and optimize your usage of Azure DevOps
-- Help you make stretegic decisions regarding Azure DevOps and/or GitHub
+- Help you make strategic decisions regarding Azure DevOps and/or GitHub
 - Applying Professional Scrum for Software Development training classes
 
 ### How to contact me
