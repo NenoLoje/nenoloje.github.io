@@ -12,7 +12,7 @@ Empower teams and improve Professional Software Delivery using agile practices, 
 - Since 2005: Freelance consultant, specializing in Azure DevOps (formerly TFS/VSTS)
 - Since 2005: As a Microsoft Most Valuable Professional (MVP) for Developer Technologies, I engage with the Azure DevOps team and forward customer feedback to Microsoft regularly
 - Since 2006: Trainer and founder of @TFSCamp - a training for Azure DevOps power users
-- Since 2010: Professional Scrum trainer (licensed by scrum.org)
+- Since 2010: Professional Scrum Trainer (licensed by scrum.org), see: Applied Professional Scrum for Software Development
 - Since 2010: Member of the Advisory Board for the BASTA! conference (DevOps track)
 - Since 2020: Member of the Advisory Board for the Developer Week conference (Scrum track)
 - Since 2020: Co-hosting the Power Of DevOps Community meetups
