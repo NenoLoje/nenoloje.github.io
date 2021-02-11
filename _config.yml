@@ -3,4 +3,8 @@ name: NenoLoje.com
 url: https://web.nenoloje.com
 markdown: GFM
 timezone: Europe/Berlin
+lang: en-US
 title: null # to remove the header
+description: Hi, my name is Neno Loje and this is my web page.
+
+theme: jekyll-theme-primer # default theme for GitHub Pages
