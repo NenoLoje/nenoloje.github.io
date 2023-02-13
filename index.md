@@ -4,7 +4,7 @@ Hi, I'm Neno Loje from Hamburg, Germany.
 
 ### My Mission
 
-Empower teams to imprive their Professional Software Delivery using agile practices, Scrum, and Azure DevOps (formerly TFS). 
+Empower teams to improve their Professional Software Delivery skills using agile practices, Scrum, and Azure DevOps. 
 
 ### What I do
 
